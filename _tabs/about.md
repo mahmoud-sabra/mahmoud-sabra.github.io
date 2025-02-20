@@ -12,5 +12,4 @@ I’m proficient in **AWS, Terraform, Ansible, Docker, Kubernetes, and Bash scri
 
 ## My Journey
 I hold a **Bachelor’s degree in Communication and Electronics Engineering achieving an overall grade of Very Good**, where I graduated with a focus on implementing DevOps and cloud technologies for hosting software products. My passion for technology led me to certifications like **Certified Kubernetes Administrator (CKA)**, **AWS Certified Cloud Practitioner**, and **Microsoft Azure Fundamentals (AZ-900)**, **OCI Certified Foundations Associate**
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
